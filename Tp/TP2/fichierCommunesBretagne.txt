@@ -1,0 +1,1415 @@
+﻿Abbaretz;44001
+Acigné;35001
+Aigrefeuille-sur-Maine;44002
+Allaire;56001
+Allineuc;22001
+Amanlis;35002
+Ambon;56002
+Ancenis-Saint-Géréon;44003
+Andel;22002
+Andouillé-Neuville;35003
+Arbrissel;35005
+Argentré-du-Plessis;35006
+Argol;29001
+Arradon;56003
+Arzal;56004
+Arzano;29002
+Arzon;56005
+Assérac;44006
+Aubigné;35007
+Aucaleuc;22003
+Audierne;29003
+Augan;56006
+Auray;56007
+Availles-sur-Seiche;35008
+Avessac;44007
+Baden;56008
+Baguer-Morvan;35009
+Baguer-Pican;35010
+Bain-de-Bretagne;35012
+Bains-sur-Oust;35013
+Bais;35014
+Balazé;35015
+Bangor;56009
+Bannalec;29004
+Basse-Goulaine;44009
+Batz-sur-Mer;44010
+Baud;56010
+Baulon;35016
+Baye;29005
+Bazouges-la-Pérouse;35019
+Beaucé;35021
+Beaussais-sur-Mer;22209
+Bécherel;35022
+Bédée;35023
+Béganne;56011
+Bégard;22004
+Beignon;56012
+Belle-Isle-en-Terre;22005
+Belz;56013
+Bénodet;29006
+Berhet;22006
+Berné;56014
+Berric;56015
+Berrien;29007
+Besné;44013
+Betton;35024
+Beuzec-Cap-Sizun;29008
+Bignan;56017
+Billé;35025
+Billiers;56018
+Billio;56019
+Binic-Étables-sur-Mer;22055
+Blain;44015
+Bléruais;35026
+Bobital;22008
+Bodilis;29010
+Bohal;56020
+Bohars;29011
+Boisgervilly;35027
+Boistrudan;35028
+Bolazec;29012
+Bon Repos sur Blavet;22107
+Bonnemain;35029
+Bono;56262
+Boqueho;22011
+Botmeur;29013
+Botsorhel;29014
+Bouaye;44018
+Bouée;44019
+Bouguenais;44020
+Bourbriac;22013
+Bourgbarré;35032
+Bourg-Blanc;29015
+Bourg-des-Comptes;35033
+Bourseul;22014
+Boussay;44022
+Bouvron;44023
+Bovel;35035
+Brains;44024
+Brandérion;56021
+Brandivy;56022
+Brasparts;29016
+Bréal-sous-Montfort;35037
+Bréal-sous-Vitré;35038
+Brécé;35039
+Brech;56023
+Bréhan;56024
+Bréhand;22015
+Brélès;29017
+Brélidy;22018
+Brennilis;29018
+Brest;29019
+Breteil;35040
+Brie;35041
+Briec;29020
+Brielles;35042
+Brignac;56025
+Bringolo;22019
+Broons;22020
+Broualan;35044
+Bruc-sur-Aff;35045
+Brusvily;22021
+Bruz;35047
+Bubry;56026
+Bulat-Pestivien;22023
+Buléon;56027
+Caden;56028
+Calan;56029
+Calanhel;22024
+Callac;22025
+Calorguen;22026
+Camaret-sur-Mer;29022
+Camlez;22028
+Camoël;56030
+Camors;56031
+Campbon;44025
+Campénéac;56032
+Cancale;35049
+Canihuel;22029
+Caouënnec-Lanvézéac;22030
+Carantec;29023
+Cardroc;35050
+Carentoir;56033
+Carhaix-Plouguer;29024
+Carnac;56034
+Carnoët;22031
+Caro;56035
+Carquefou;44026
+Casson;44027
+Cast;29025
+Caudan;56036
+Caulnes;22032
+Caurel;22033
+Cavan;22034
+Cesson-Sévigné;35051
+Champeaux;35052
+Chanteloup;35054
+Chantepie;35055
+Chartres-de-Bretagne;35066
+Chasné-sur-Illet;35067
+Châteaubourg;35068
+Châteaubriant;44036
+Châteaugiron;35069
+Châteaulin;29026
+Châteauneuf-d'Ille-et-Vilaine;35070
+Châteauneuf-du-Faou;29027
+Château-Thébaud;44037
+Châtelaudren-Plouagat;22206
+Châtillon-en-Vendelais;35072
+Chaumes-en-Retz;44005
+Chauvé;44038
+Chauvigné;35075
+Chavagne;35076
+Cheix-en-Retz;44039
+Chelun;35077
+Cherrueix;35078
+Chevaigné;35079
+Cintré;35080
+Clayes;35081
+Cléden-Cap-Sizun;29028
+Cléden-Poher;29029
+Cléder;29030
+Cléguer;56040
+Cléguérec;56041
+Clisson;44043
+Clohars-Carnoët;29031
+Clohars-Fouesnant;29032
+Coadout;22040
+Coatascorn;22041
+Coat-Méal;29035
+Coatréven;22042
+Coësmes;35082
+Coëtlogon;22043
+Coëtmieux;22044
+Cohiniac;22045
+Collorec;29036
+Colpo;56042
+Comblessac;35084
+Combourg;35085
+Combourtillé;35086
+Combrit;29037
+Commana;29038
+Concarneau;29039
+Concoret;56043
+Confort-Meilars;29145
+Conquereuil;44044
+Coray;29041
+Corcoué-sur-Logne;44156
+Cordemais;44045
+Corlay;22047
+Cornillé;35087
+Corps-Nuds;35088
+Corsept;44046
+Corseul;22048
+Couëron;44047
+Couffé;44048
+Cournon;56044
+Crach;56046
+Crédin;56047
+Créhen;22049
+Crevin;35090
+Croixanvec;56049
+Crossac;44050
+Crozon;29042
+Cruguel;56051
+Cuguen;35092
+Damgan;56052
+Daoulas;29043
+Derval;44051
+Dinan;22050
+Dinard;35093
+Dinéault;29044
+Dingé;35094
+Dirinon;29045
+Divatte-sur-Loire;44029
+Dol-de-Bretagne;35095
+Domagné;35096
+Domalain;35097
+Domloup;35099
+Donges;44052
+Douarnenez;29046
+Dourdain;35101
+Drefféac;44053
+Drouges;35102
+Duault;22052
+Eancé;35103
+Edern;29048
+Elliant;29049
+Elven;56053
+Epiniac;35104
+Erbray;44054
+Erbrée;35105
+Ercé-en-Lamée;35106
+Ercé-près-Liffré;35107
+Erdeven;56054
+Éréac;22053
+Ergué-Gabéric;29051
+Erquy;22054
+Essé;35108
+Étel;56055
+Étrelles;35109
+Évellys;56144
+Évran;22056
+Évriguet;56056
+Fay-de-Bretagne;44056
+Fégréac;44057
+Feins;35110
+Fercé;44058
+Férel;56058
+Fleurigné;35112
+Forges de Lanouée;56102
+Forges-la-Forêt;35114
+Fouesnant;29058
+Fougères;35115
+Fréhel;22179
+Frossay;44061
+Gaël;35117
+Gahard;35118
+Garlan;29059
+Gausson;22060
+Gâvres;56062
+Geneston;44223
+Gennes-sur-Seiche;35119
+Gestel;56063
+Gétigné;44063
+Gévezé;35120
+Glomel;22061
+Gomené;22062
+Gommenec'h;22063
+Gorges;44064
+Gosné;35121
+Gouarec;22064
+Goudelin;22065
+Gouesnach;29060
+Gouesnou;29061
+Gouézec;29062
+Goulien;29063
+Goulven;29064
+Gourhel;56065
+Gourin;56066
+Gourlizon;29065
+Goven;35123
+Grâces;22067
+Grâce-Uzel;22068
+Grand-Auverné;44065
+Grand-Champ;56067
+Grandchamps-des-Fontaines;44066
+Grand-Fougeray;35124
+Groix;56069
+Guégon;56070
+Guéhenno;56071
+Gueltas;56072
+Guémené-Penfao;44067
+Guémené-sur-Scorff;56073
+Guengat;29066
+Guénin;56074
+Guenroc;22069
+Guenrouet;44068
+Guer;56075
+Guérande;44069
+Guerlédan;22158
+Guerlesquin;29067
+Guern;56076
+Guichen;35126
+Guiclan;29068
+Guidel;56078
+Guignen;35127
+Guilers;29069
+Guiler-sur-Goyen;29070
+Guillac;56079
+Guilliers;56080
+Guilligomarc'h;29071
+Guilvinec;29072
+Guimaëc;29073
+Guimiliau;29074
+Guingamp;22070
+Guipavas;29075
+Guipel;35128
+Guipry-Messac;35176
+Guiscriff;56081
+Guissény;29077
+Guitté;22071
+Gurunhuel;22072
+Hanvec;29078
+Haute-Goulaine;44071
+Hédé-Bazouges;35130
+Helléan;56082
+Hémonstoir;22075
+Hénanbihen;22076
+Hénansal;22077
+Hennebont;56083
+Hénon;22079
+Henvic;29079
+Herbignac;44072
+Héric;44073
+Hillion;22081
+Hirel;35132
+Hœdic;56085
+Hôpital-Camfrout;29080
+Huelgoat;29081
+Iffendic;35133
+Île-aux-Moines;56087
+Île-d'Arz;56088
+Île-de-Batz;29082
+Île-de-Bréhat;22016
+Île-de-Sein;29083
+Île-d'Houat;56086
+Île-Molène;29084
+Île-Tudy;29085
+Illifaut;22083
+Indre;44074
+Inguiniel;56089
+Inzinzac-Lochrist;56090
+Irodouër;35135
+Irvillac;29086
+Issé;44075
+Jans;44076
+Janzé;35136
+Javené;35137
+Josselin;56091
+Joué-sur-Erdre;44077
+Jugon-les-Lacs - Commune nouvelle;22084
+Juigné-des-Moutiers;44078
+Kerbors;22085
+Kerfot;22086
+Kerfourn;56092
+Kergloff;29089
+Kergrist;56093
+Kergrist-Moëlou;22087
+Kerien;22088
+Kerlaz;29090
+Kerlouan;29091
+Kermaria-Sulard;22090
+Kermoroc'h;22091
+Kernascléden;56264
+Kernilis;29093
+Kernouës;29094
+Kerpert;22092
+Kersaint-Plabennec;29095
+Kervignac;56094
+La Baule-Escoublac;44055
+La Baussaine;35017
+La Bazouge-du-Désert;35018
+La Bernerie-en-Retz;44012
+La Boissière-du-Doré;44016
+La Bosse-de-Bretagne;35030
+La Bouëxière;35031
+La Bouillie;22012
+La Boussac;35034
+La Chapelle du Lou du Lac;35060
+La Chapelle-aux-Filtzméens;35056
+La Chapelle-Blanche;22036
+La Chapelle-Bouëxic;35057
+La Chapelle-Chaussée;35058
+La Chapelle-de-Brain;35064
+La Chapelle-des-Fougeretz;35059
+La Chapelle-des-Marais;44030
+La Chapelle-Erbrée;35061
+La Chapelle-Glain;44031
+La Chapelle-Heulin;44032
+La Chapelle-Janson;35062
+La Chapelle-Launay;44033
+La Chapelle-Neuve;22037
+La Chapelle-Neuve;56039
+La Chapelle-Saint-Aubert;35063
+La Chapelle-sur-Erdre;44035
+La Chapelle-Thouarault;35065
+La Chevallerais;44221
+La Chevrolière;44041
+La Chèze;22039
+La Couyère;35089
+La Croix-Helléan;56050
+La Dominelais;35098
+La Feuillée;29054
+La Forest-Landerneau;29056
+La Forêt-Fouesnant;29057
+La Fresnais;35116
+La Gacilly;56061
+La Gouesnière;35122
+La Grée-Saint-Laurent;56068
+La Grigonnais;44224
+La Guerche-de-Bretagne;35125
+La Haie-Fouassière;44070
+La Harmoye;22073
+La Landec;22097
+La Limouzinière;44083
+La Malhoure;22140
+La Marne;44090
+La Martyre;29144
+La Méaugon;22144
+La Meilleraye-de-Bretagne;44095
+La Mézière;35177
+La Montagne;44101
+La Motte;22155
+La Noë-Blanche;35202
+La Nouaye;35203
+La Plaine-sur-Mer;44126
+La Planche;44127
+La Prénessaye;22255
+La Regrippière;44140
+La Remaudière;44141
+La Richardais;35241
+La Roche-Bernard;56195
+La Roche-Blanche;44222
+La Roche-Jaudy;22264
+La Roche-Maurice;29237
+La Selle-en-Luitré;35324
+La Selle-Guerchaise;35325
+La Trinité-Porhoët;56257
+La Trinité-sur-Mer;56258
+La Trinité-Surzur;56259
+La Turballe;44211
+La Vicomté-sur-Rance;22385
+La Ville-ès-Nonais;35358
+La Vraie-Croix;56261
+Laignelet;35138
+Laillé;35139
+Lalleu;35140
+Lamballe-Armor;22093
+Lampaul-Guimiliau;29097
+Lampaul-Plouarzel;29098
+Lampaul-Ploudalmézeau;29099
+Lanarvily;29100
+Lancieux;22094
+Landaul;56096
+Landavran;35141
+Landéan;35142
+Landebaëron;22095
+Landébia;22096
+Landéda;29101
+Landéhen;22098
+Landeleau;29102
+Landerneau;29103
+Landévant;56097
+Landévennec;29104
+Landivisiau;29105
+Landrévarzec;29106
+Landudal;29107
+Landudec;29108
+Landujan;35143
+Landunvez;29109
+Lanester;56098
+Lanfains;22099
+Langan;35144
+Langoat;22101
+Langoëlan;56099
+Langolen;29110
+Langon;35145
+Langonnet;56100
+Langouet;35146
+Langrolay-sur-Rance;22103
+Languédias;22104
+Languenan;22105
+Langueux;22106
+Languidic;56101
+Lanhouarneau;29111
+Lanildut;29112
+Lanleff;22108
+Lanloup;22109
+Lanmérin;22110
+Lanmeur;29113
+Lanmodez;22111
+Lannéanou;29114
+Lannebert;22112
+Lannédern;29115
+Lanneuffret;29116
+Lannilis;29117
+Lannion;22113
+Lanrelas;22114
+Lanrigan;35148
+Lanrivain;22115
+Lanrivoaré;29119
+Lanrodec;22116
+Lantic;22117
+Lantillac;56103
+Lanvallay;22118
+Lanvaudan;56104
+Lanvellec;22119
+Lanvénégen;56105
+Lanvéoc;29120
+Lanvollon;22121
+Larmor-Baden;56106
+Larmor-Plage;56107
+Larré;56108
+Lassy;35149
+Laurenan;22122
+Lauzach;56109
+Lavau-sur-Loire;44080
+Laz;29122
+Le Bignon;44014
+Le Bodéo;22009
+Le Cambout;22027
+Le Cellier;44028
+Le Châtellier;35071
+Le Cloître-Pleyben;29033
+Le Cloître-Saint-Thégonnec;29034
+Le Conquet;29040
+Le Cours;56045
+Le Croisic;44049
+Le Croisty;56048
+Le Crouais;35091
+Le Drennec;29047
+Le Faou;29053
+Le Faouët;22057
+Le Faouët;56057
+Le Ferré;35111
+Le Fœil;22059
+Le Folgoët;29055
+Le Gâvre;44062
+Le Guerno;56077
+Le Haut-Corlay;22074
+Le Hézo;56084
+Le Hinglé;22082
+Le Juch;29087
+Le Landreau;44079
+Le Leslay;22126
+Le Loroux;35157
+Le Loroux-Bottereau;44084
+Le Mené;22046
+Le Merzer;22150
+Le Minihic-sur-Rance;35181
+Le Moustoir;22157
+Le Palais;56152
+Le Pallet;44117
+Le Pellerin;44120
+Le Pertre;35217
+Le Petit-Fougeray;35218
+Le Pin;44124
+Le Pouliguen;44135
+Le Quillio;22260
+Le Quiou;22263
+Le Relecq-Kerhuon;29235
+Le Rheu;35240
+Le Saint;56201
+Le Sel-de-Bretagne;35322
+Le Sourn;56246
+Le Temple-de-Bretagne;44203
+Le Theil-de-Bretagne;35333
+Le Tiercent;35336
+Le Tour-du-Parc;56252
+Le Tréhou;29294
+Le Trévoux;29300
+Le Tronchet;35362
+Le Verger;35351
+Le Vieux-Bourg;22386
+Le Vieux-Marché;22387
+Le Vivier-sur-Mer;35361
+Lécousse;35150
+Legé;44081
+Lennon;29123
+Les Brulais;35046
+Les Champs-Géraux;22035
+Les Fougerêts;56060
+Les Iffs;35134
+Les Moutiers-en-Retz;44106
+Les Portes du Coglais;35191
+Les Sorinières;44198
+Les Touches;44205
+Lescouët-Gouarec;22124
+Lesneven;29124
+Leuhan;29125
+Lézardrieux;22127
+L'Hermitage;35131
+Lieuron;35151
+Liffré;35152
+Ligné;44082
+Lignol;56110
+Lillemer;35153
+Limerzel;56111
+Livré-sur-Changeon;35154
+Lizio;56112
+Locarn;22128
+Loc-Brévalaire;29126
+Loc-Eguiner;29128
+Loc-Envel;22129
+Locmalo;56113
+Locmaria;56114
+Locmaria-Grand-Champ;56115
+Locmaria-Plouzané;29130
+Locmariaquer;56116
+Locmélar;29131
+Locminé;56117
+Locmiquélic;56118
+Locoal-Mendon;56119
+Locqueltas;56120
+Locquénolé;29132
+Locquirec;29133
+Locronan;29134
+Loctudy;29135
+Locunolé;29136
+Logonna-Daoulas;29137
+Loguivy-Plougras;22131
+Lohéac;35155
+Lohuec;22132
+Loireauxence;44213
+Longaulnay;35156
+Lopérec;29139
+Loperhet;29140
+Loqueffret;29141
+Lorient;56121
+Loscouët-sur-Meu;22133
+Lothey;29142
+Louannec;22134
+Louargat;22135
+Loudéac;22136
+Louisfert;44085
+Lourmais;35159
+Loutehel;35160
+Louvigné-de-Bais;35161
+Louvigné-du-Désert;35162
+Loyat;56122
+Luitré-Dompierre;35163
+Lusanger;44086
+Machecoul-Saint-Même;44087
+Maël-Carhaix;22137
+Maël-Pestivien;22138
+Maen Roch;35257
+Magoar;22139
+Mahalon;29143
+Maisdon-sur-Sèvre;44088
+Malansac;56123
+Malestroit;56124
+Malguénac;56125
+Malville;44089
+Mantallot;22141
+Marcillé-Raoul;35164
+Marcillé-Robert;35165
+Marpiré;35166
+Marsac-sur-Don;44091
+Martigné-Ferchaud;35167
+Marzan;56126
+Massérac;44092
+Matignon;22143
+Mauron;56127
+Mauves-sur-Loire;44094
+Maxent;35169
+Mecé;35170
+Médréac;35171
+Mégrit;22145
+Meillac;35172
+Melesse;35173
+Melgven;29146
+Mellac;29147
+Mellé;35174
+Mellionnec;22146
+Melrand;56128
+Ménéac;56129
+Merdrignac;22147
+Mérillac;22148
+Merléac;22149
+Merlevenez;56130
+Mernel;35175
+Mésanger;44096
+Meslan;56131
+Mesnil-Roc'h;35308
+Mespaul;29148
+Mesquer;44097
+Meucon;56132
+Mézières-sur-Couesnon;35178
+Milizac-Guipronvel;29076
+Miniac-Morvan;35179
+Miniac-sous-Bécherel;35180
+Minihy-Tréguier;22152
+Missillac;44098
+Missiriac;56133
+Moëlan-sur-Mer;29150
+Mohon;56134
+Moisdon-la-Rivière;44099
+Molac;56135
+Moncontour;22153
+Mondevert;35183
+Monnières;44100
+Montauban-de-Bretagne;35184
+Montautour;35185
+Montbert;44102
+Mont-Dol;35186
+Monteneuf;56136
+Monterblanc;56137
+Monterfil;35187
+Montertelot;56139
+Montfort-sur-Meu;35188
+Montgermont;35189
+Monthault;35190
+Montoir-de-Bretagne;44103
+Montrelais;44104
+Montreuil-des-Landes;35192
+Montreuil-le-Gast;35193
+Montreuil-sous-Pérouse;35194
+Montreuil-sur-Ille;35195
+Mordelles;35196
+Moréac;56140
+Morlaix;29151
+Motreff;29152
+Mouais;44105
+Mouazé;35197
+Moulins;35198
+Moussé;35199
+Moustéru;22156
+Moustoir-Ac;56141
+Moutiers;35200
+Mouzeil;44107
+Mouzillon;44108
+Muel;35201
+Muzillac;56143
+Nantes;44109
+Néant-sur-Yvel;56145
+Neulliac;56146
+Névez;29153
+Nivillac;56147
+Nort-sur-Erdre;44110
+Nostang;56148
+Notre-Dame-des-Landes;44111
+Nouvoitou;35204
+Noyal;22160
+Noyal-Châtillon-sur-Seiche;35206
+Noyal-Muzillac;56149
+Noyal-Pontivy;56151
+Noyal-sous-Bazouges;35205
+Noyal-sur-Brutz;44112
+Noyal-sur-Vilaine;35207
+Nozay;44113
+Orgères;35208
+Orvault;44114
+Oudon;44115
+Ouessant;29155
+Pabu;22161
+Pacé;35210
+Paimbœuf;44116
+Paimpol;22162
+Paimpont;35211
+Pancé;35212
+Pannecé;44118
+Parcé;35214
+Parigné;35215
+Parthenay-de-Bretagne;35216
+Paule;22163
+Paulx;44119
+Péaule;56153
+Pédernec;22164
+Peillac;56154
+Pencran;29156
+Pénestin;56155
+Penguily;22165
+Penmarch;29158
+Penvénan;22166
+Perros-Guirec;22168
+Persquen;56156
+Petit-Auverné;44121
+Petit-Mars;44122
+Peumerit;29159
+Peumerit-Quintin;22169
+Pierric;44123
+Pipriac;35219
+Piré-Chancé;35220
+Piriac-sur-Mer;44125
+Plabennec;29160
+Plaine-Haute;22170
+Plaintel;22171
+Plancoët;22172
+Plaudren;56157
+Pléboulle;22174
+Pléchâtel;35221
+Plédéliac;22175
+Plédran;22176
+Pléguien;22177
+Pléhédel;22178
+Pleine-Fougères;35222
+Plélan-le-Grand;35223
+Plélan-le-Petit;22180
+Plélauff;22181
+Plélo;22182
+Plémet;22183
+Plémy;22184
+Plénée-Jugon;22185
+Pléneuf-Val-André;22186
+Plerguer;35224
+Plérin;22187
+Plerneuf;22188
+Plescop;56158
+Plesder;35225
+Plésidy;22189
+Pleslin-Trigavou;22190
+Plessé;44128
+Plestan;22193
+Plestin-les-Grèves;22194
+Pleubian;22195
+Pleucadeuc;56159
+Pleudaniel;22196
+Pleudihen-sur-Rance;22197
+Pleugriffet;56160
+Pleugueneuc;35226
+Pleumeleuc;35227
+Pleumeur-Bodou;22198
+Pleumeur-Gautier;22199
+Pleurtuit;35228
+Pleuven;29161
+Pléven;22200
+Plévenon;22201
+Plévin;22202
+Pleyben;29162
+Pleyber-Christ;29163
+Plobannalec-Lesconil;29165
+Ploemel;56161
+Ploemeur;56162
+Ploërdut;56163
+Ploeren;56164
+Ploërmel;56165
+Plœuc-L'Hermitage;22203
+Ploéven;29166
+Ploëzal;22204
+Plogastel-Saint-Germain;29167
+Plogoff;29168
+Plogonnec;29169
+Plomelin;29170
+Plomeur;29171
+Plomodiern;29172
+Plonéis;29173
+Plonéour-Lanvern;29174
+Plonévez-du-Faou;29175
+Plonévez-Porzay;29176
+Plorec-sur-Arguenon;22205
+Plouaret;22207
+Plouarzel;29177
+Plouasne;22208
+Plouay;56166
+Ploubazlanec;22210
+Ploubezre;22211
+Ploudalmézeau;29178
+Ploudaniel;29179
+Ploudiry;29180
+Plouëc-du-Trieux;22212
+Plouédern;29181
+Plouégat-Guérand;29182
+Plouégat-Moysan;29183
+Plouénan;29184
+Plouër-sur-Rance;22213
+Plouescat;29185
+Plouézec;22214
+Plouezoc'h;29186
+Ploufragan;22215
+Plougar;29187
+Plougasnou;29188
+Plougastel-Daoulas;29189
+Plougonvelin;29190
+Plougonven;29191
+Plougonver;22216
+Plougoulm;29192
+Plougoumelen;56167
+Plougourvest;29193
+Plougras;22217
+Plougrescant;22218
+Plouguenast-Langast;22219
+Plouguerneau;29195
+Plouguernével;22220
+Plouguiel;22221
+Plouguin;29196
+Plouha;22222
+Plouharnel;56168
+Plouhinec;29197
+Plouhinec;56169
+Plouider;29198
+Plouigneau;29199
+Plouisy;22223
+Ploulec'h;22224
+Ploumagoar;22225
+Ploumilliau;22226
+Ploumoguer;29201
+Plounéour-Brignogan-plages;29021
+Plounéour-Ménez;29202
+Plounérin;22227
+Plounéventer;29204
+Plounévézel;29205
+Plounévez-Lochrist;29206
+Plounévez-Moëdec;22228
+Plounévez-Quintin;22229
+Plourac'h;22231
+Plouray;56170
+Plourhan;22232
+Plourin;29208
+Plourin-lès-Morlaix;29207
+Plourivo;22233
+Plouvara;22234
+Plouvien;29209
+Plouvorn;29210
+Plouyé;29211
+Plouzané;29212
+Plouzélambre;22235
+Plouzévédé;29213
+Plovan;29214
+Plozévet;29215
+Pludual;22236
+Pluduno;22237
+Plufur;22238
+Pluguffan;29216
+Pluherlin;56171
+Plumaudan;22239
+Plumaugat;22240
+Plumelec;56172
+Pluméliau-Bieuzy;56173
+Plumelin;56174
+Plumergat;56175
+Plumieux;22241
+Pluneret;56176
+Plurien;22242
+Plusquellec;22243
+Plussulien;22244
+Pluvigner;56177
+Pluzunet;22245
+Pocé-les-Bois;35229
+Poilley;35230
+Poligné;35231
+Pommeret;22246
+Pommerit-le-Vicomte;22248
+Pont-Aven;29217
+Pontchâteau;44129
+Pont-Croix;29218
+Pont-de-Buis-lès-Quimerch;29302
+Pontivy;56178
+Pont-l'Abbé;29220
+Pont-Melvez;22249
+Pont-Péan;35363
+Pontrieux;22250
+Pont-Saint-Martin;44130
+Pont-Scorff;56179
+Porcaro;56180
+Pordic;22251
+Pornic;44131
+Pornichet;44132
+Porspoder;29221
+Port-Launay;29222
+Port-Louis;56181
+Port-Saint-Père;44133
+Pouillé-les-Côteaux;44134
+Pouldergat;29224
+Pouldreuzic;29225
+Poullan-sur-Mer;29226
+Poullaouen;29227
+Prat;22254
+Préfailles;44136
+Primelin;29228
+Princé;35232
+Prinquiau;44137
+Priziac;56182
+Puceul;44138
+Québriac;35233
+Quédillac;35234
+Quéménéven;29229
+Quemper-Guézennec;22256
+Quemperven;22257
+Querrien;29230
+Quessoy;22258
+Questembert;56184
+Quéven;56185
+Quévert;22259
+Quiberon;56186
+Quilly;44139
+Quimper;29232
+Quimperlé;29233
+Quintenic;22261
+Quintin;22262
+Quistinic;56188
+Radenac;56189
+Rannée;35235
+Rédené;29234
+Redon;35236
+Réguiny;56190
+Réminiac;56191
+Remouillé;44142
+Renac;35237
+Rennes;35238
+Retiers;35239
+Rezé;44143
+Riaillé;44144
+Riantec;56193
+Riec-sur-Bélon;29236
+Rieux;56194
+Rimou;35242
+Rives-du-Couesnon;35282
+Rochefort-en-Terre;56196
+Rohan;56198
+Romagné;35243
+Romazy;35244
+Romillé;35245
+Roscanvel;29238
+Roscoff;29239
+Rosnoën;29240
+Rospez;22265
+Rosporden;29241
+Rostrenen;22266
+Rouans;44145
+Roudouallec;56199
+Rougé;44146
+Rouillac;22267
+Roz-Landrieux;35246
+Roz-sur-Couesnon;35247
+Ruca;22268
+Ruffiac;56200
+Ruffigné;44148
+Runan;22269
+Saffré;44149
+Sains;35248
+Saint-Abraham;56202
+Saint-Adrien;22271
+Saint-Agathon;22272
+Saint-Aignan;56203
+Saint-Aignan-Grandlieu;44150
+Saint-Alban;22273
+Saint-Allouestre;56204
+Saint-André-des-Eaux;22274
+Saint-André-des-Eaux;44151
+Saint-Armel;35250
+Saint-Armel;56205
+Saint-Aubin-d'Aubigné;35251
+Saint-Aubin-des-Châteaux;44153
+Saint-Aubin-des-Landes;35252
+Saint-Aubin-du-Cormier;35253
+Saint-Avé;56206
+Saint-Barnabé;22275
+Saint-Barthélemy;56207
+Saint-Benoît-des-Ondes;35255
+Saint-Bihy;22276
+Saint-Brandan;22277
+Saint-Brevin-les-Pins;44154
+Saint-Briac-sur-Mer;35256
+Saint-Brieuc;22278
+Saint-Brieuc-de-Mauron;56208
+Saint-Brieuc-des-Iffs;35258
+Saint-Broladre;35259
+Saint-Caradec;22279
+Saint-Caradec-Trégomel;56210
+Saint-Carné;22280
+Saint-Carreuc;22281
+Saint-Cast-le-Guildo;22282
+Saint-Christophe-des-Bois;35260
+Saint-Christophe-de-Valains;35261
+Saint-Clet;22283
+Saint-Colomban;44155
+Saint-Congard;56211
+Saint-Connan;22284
+Saint-Connec;22285
+Saint-Coulitz;29243
+Saint-Coulomb;35263
+Saint-Denoual;22286
+Saint-Derrien;29244
+Saint-Didier;35264
+Saint-Divy;29245
+Saint-Dolay;56212
+Saint-Domineuc;35265
+Saint-Donan;22287
+Sainte-Anne-d'Auray;56263
+Sainte-Anne-sur-Brivet;44152
+Sainte-Anne-sur-Vilaine;35249
+Sainte-Brigitte;56209
+Sainte-Colombe;35262
+Sainte-Hélène;56220
+Saint-Eloy;29246
+Sainte-Luce-sur-Loire;44172
+Sainte-Marie;35294
+Sainte-Pazanne;44186
+Saint-Erblon;35266
+Sainte-Reine-de-Bretagne;44189
+Sainte-Sève;29265
+Saint-Étienne-de-Mer-Morte;44157
+Saint-Étienne-de-Montluc;44158
+Saint-Étienne-du-Gué-de-l'Isle;22288
+Sainte-Tréphine;22331
+Saint-Évarzec;29247
+Saint-Fiacre;22289
+Saint-Fiacre-sur-Maine;44159
+Saint-Frégant;29248
+Saint-Ganton;35268
+Saint-Georges-de-Gréhaigne;35270
+Saint-Georges-de-Reintembault;35271
+Saint-Gérand;56213
+Saint-Germain-du-Pinel;35272
+Saint-Germain-en-Coglès;35273
+Saint-Germain-sur-Ille;35274
+Saint-Gildas;22291
+Saint-Gildas-de-Rhuys;56214
+Saint-Gildas-des-Bois;44161
+Saint-Gilles;35275
+Saint-Gilles-les-Bois;22293
+Saint-Gilles-Pligeaux;22294
+Saint-Gilles-Vieux-Marché;22295
+Saint-Glen;22296
+Saint-Goazec;29249
+Saint-Gondran;35276
+Saint-Gonlay;35277
+Saint-Gonnery;56215
+Saint-Gorgon;56216
+Saint-Gravé;56218
+Saint-Grégoire;35278
+Saint-Guinoux;35279
+Saint-Guyomard;56219
+Saint-Hélen;22299
+Saint-Herblain;44162
+Saint-Hernin;29250
+Saint-Hervé;22300
+Saint-Hilaire-de-Chaléons;44164
+Saint-Hilaire-de-Clisson;44165
+Saint-Hilaire-des-Landes;35280
+Saint-Igeaux;22334
+Saint-Jacques-de-la-Lande;35281
+Saint-Jacut-de-la-Mer;22302
+Saint-Jacut-les-Pins;56221
+Saint-Jean-Brévelay;56222
+Saint-Jean-de-Boiseau;44166
+Saint-Jean-du-Doigt;29251
+Saint-Jean-Kerdaniel;22304
+Saint-Jean-la-Poterie;56223
+Saint-Jean-sur-Vilaine;35283
+Saint-Jean-Trolimon;29252
+Saint-Joachim;44168
+Saint-Jouan-de-l'Isle;22305
+Saint-Jouan-des-Guérets;35284
+Saint-Judoce;22306
+Saint-Julien;22307
+Saint-Julien-de-Concelles;44169
+Saint-Julien-de-Vouvantes;44170
+Saint-Just;35285
+Saint-Juvat;22308
+Saint-Launeuc;22309
+Saint-Laurent;22310
+Saint-Laurent-sur-Oust;56224
+Saint-Léger-des-Prés;35286
+Saint-Léger-les-Vignes;44171
+Saint-Léry;56225
+Saint-Lormel;22311
+Saint-Lumine-de-Clisson;44173
+Saint-Lumine-de-Coutais;44174
+Saint-Lunaire;35287
+Saint-Lyphard;44175
+Saint-Maden;22312
+Saint-Malo;35288
+Saint-Malo-de-Beignon;56226
+Saint-Malo-de-Guersac;44176
+Saint-Malo-de-Phily;35289
+Saint-Malo-des-Trois-Fontaines;56227
+Saint-Malon-sur-Mel;35290
+Saint-Marcan;35291
+Saint-Marcel;56228
+Saint-Marc-le-Blanc;35292
+Saint-Mars-de-Coutais;44178
+Saint-Mars-du-Désert;44179
+Saint-Martin-des-Champs;29254
+Saint-Martin-des-Prés;22313
+Saint-Martin-sur-Oust;56229
+Saint-Maudan;22314
+Saint-Maudez;22315
+Saint-Maugan;35295
+Saint-Mayeux;22316
+Saint-Médard-sur-Ille;35296
+Saint-Méen;29255
+Saint-Méen-le-Grand;35297
+Saint-Méloir-des-Bois;22317
+Saint-Méloir-des-Ondes;35299
+Saint-M'Hervé;35300
+Saint-Michel-Chef-Chef;44182
+Saint-Michel-de-Plélan;22318
+Saint-Michel-en-Grève;22319
+Saint-Molf;44183
+Saint-Nazaire;44184
+Saint-Nic;29256
+Saint-Nicodème;22320
+Saint-Nicolas-de-Redon;44185
+Saint-Nicolas-du-Pélem;22321
+Saint-Nicolas-du-Tertre;56230
+Saint-Nolff;56231
+Saint-Onen-la-Chapelle;35302
+Saint-Ouen-des-Alleux;35304
+Saint-Pabu;29257
+Saint-Péran;35305
+Saint-Père;35306
+Saint-Père-en-Retz;44187
+Saint-Pern;35307
+Saint-Perreux;56232
+Saint-Péver;22322
+Saint-Philbert-de-Grand-Lieu;44188
+Saint-Philibert;56233
+Saint-Pierre-Quiberon;56234
+Saint-Pol-de-Léon;29259
+Saint-Pôtan;22323
+Saint-Quay-Perros;22324
+Saint-Quay-Portrieux;22325
+Saint-Rémy-du-Plain;35309
+Saint-Renan;29260
+Saint-Rieul;22326
+Saint-Rivoal;29261
+Saint-Samson-sur-Rance;22327
+Saint-Sauveur;29262
+Saint-Sauveur-des-Landes;35310
+Saint-Sébastien-sur-Loire;44190
+Saint-Ségal;29263
+Saint-Séglin;35311
+Saint-Senoux;35312
+Saint-Servais;22328
+Saint-Servais;29264
+Saint-Servant;56236
+Saint-Suliac;35314
+Saint-Sulpice-des-Landes;35316
+Saint-Sulpice-la-Forêt;35315
+Saint-Symphorien;35317
+Saint-Thégonnec Loc-Eguiner;29266
+Saint-Thélo;22330
+Saint-Thois;29267
+Saint-Thonan;29268
+Saint-Thual;35318
+Saint-Thurial;35319
+Saint-Thuriau;56237
+Saint-Thurien;29269
+Saint-Trimoël;22332
+Saint-Tugdual;56238
+Saint-Uniac;35320
+Saint-Urbain;29270
+Saint-Viaud;44192
+Saint-Vincent-des-Landes;44193
+Saint-Vincent-sur-Oust;56239
+Saint-Vougay;29271
+Saint-Vran;22333
+Saint-Yvi;29272
+Santec;29273
+Sarzeau;56240
+Saulnières;35321
+Sautron;44194
+Sauzon;56241
+Savenay;44195
+Scaër;29274
+Scrignac;29275
+Séglien;56242
+Séné;56243
+Sens-de-Bretagne;35326
+Senven-Léhart;22335
+Sérent;56244
+Servon-sur-Vilaine;35327
+Sévérac;44196
+Sévignac;22337
+Sibiril;29276
+Silfiac;56245
+Sion-les-Mines;44197
+Sixt-sur-Aff;35328
+Sizun;29277
+Soudan;44199
+Sougéal;35329
+Soulvache;44200
+Spézet;29278
+Squiffiec;22338
+Sucé-sur-Erdre;44201
+Sulniac;56247
+Surzur;56248
+Taden;22339
+Taillis;35330
+Talensac;35331
+Taulé;29279
+Taupont;56249
+Teillay;35332
+Teillé;44202
+Telgruc-sur-Mer;29280
+Théhillac;56250
+Theix-Noyalo;56251
+Thorigné-Fouillard;35334
+Thouaré-sur-Loire;44204
+Thourie;35335
+Tinténiac;35337
+Tonquédec;22340
+Torcé;35338
+Tourch;29281
+Touvois;44206
+Tramain;22341
+Trans-la-Forêt;35339
+Trans-sur-Erdre;44207
+Tréal;56253
+Trébabu;29282
+Trébédan;22342
+Trébeurden;22343
+Trébrivan;22344
+Trébry;22345
+Trédaniel;22346
+Trédarzec;22347
+Trédias;22348
+Trédion;56254
+Trédrez-Locquémeau;22349
+Tréduder;22350
+Treffendel;35340
+Treffiagat;29284
+Treffieux;44208
+Treffléan;56255
+Treffrin;22351
+Tréflaouénan;29285
+Tréflévénez;29286
+Tréflez;29287
+Tréfumel;22352
+Trégarantec;29288
+Trégarvan;29289
+Trégastel;22353
+Tréglamus;22354
+Tréglonou;29290
+Trégomeur;22356
+Trégonneau;22358
+Trégourez;29291
+Trégrom;22359
+Tréguennec;29292
+Trégueux;22360
+Tréguidel;22361
+Tréguier;22362
+Trégunc;29293
+Tréhorenteuc;56256
+Treillières;44209
+Trélévern;22363
+Trélivan;22364
+Trémaouézan;29295
+Trémargat;22365
+Trémeheuc;35342
+Trémel;22366
+Tréméoc;29296
+Tréméreuc;22368
+Trémeur;22369
+Tréméven;22370
+Tréméven;29297
+Trémorel;22371
+Trémuson;22372
+Tréogan;22373
+Tréogat;29298
+Tréouergat;29299
+Tresbœuf;35343
+Tressignaux;22375
+Trévé;22376
+Tréveneuc;22377
+Trévérec;22378
+Trévérien;35345
+Trévou-Tréguignec;22379
+Trévron;22380
+Trézény;22381
+Trézilidé;29301
+Trignac;44210
+Trimer;35346
+Troguéry;22383
+Uzel;22384
+Vair-sur-Loire;44163
+Val d'Anast;35168
+Val d'Oust;56197
+Val-Couesnon;35004
+Val-d'Izé;35347
+Vallet;44212
+Vallons-de-l'Erdre;44180
+Vannes;56260
+Vay;44214
+Vergéal;35350
+Vern-sur-Seiche;35352
+Vertou;44215
+Vezin-le-Coquet;35353
+Vieillevigne;44216
+Vieux-Viel;35354
+Vieux-Vy-sur-Couesnon;35355
+Vigneux-de-Bretagne;44217
+Vignoc;35356
+Vildé-Guingalan;22388
+Villamée;35357
+Villeneuve-en-Retz;44021
+Villepot;44218
+Visseiche;35359
+Vitré;35360
+Vue;44220
+Yffiniac;22389
+Yvias;22390
+Yvignac-la-Tour;22391
